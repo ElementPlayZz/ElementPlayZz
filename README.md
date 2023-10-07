@@ -18,4 +18,4 @@ I already have quite some experience with Photoshop and Illustrator.
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ElementPlayZz)  
 
-![Profile views](https://gpvc.arturio.dev/ElementPlayZz)  
+![](https://komarev.com/ghpvc/?username=your-ElementPlayZz)
