@@ -1,26 +1,61 @@
-**<p>Hi there 👋, I am David</p>**
-**<p>Currently learning 🙂 #Developement</p>**
-21 years old, currently learning the art of development.
+<h1 align="left">Hi there👋, I am David...</h1>
 
-I already have quite some experience with **Photoshop** and **Illustrator**.
-**<p>📖 I’m currently learning:</p>**
-- LARAVEL,
-- PHP,
-- JS,
-- REACT,
-- TAILWIND
-- CSS,
-- HTML
-**<p>📫 Discord:** pixel9144</p>
+###
 
+<h3 align="left">Currently learning 🙂 #Developement</h3>
 
-**<p align="center">What Programs I use:</p>**
-[<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElementPlayZz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jetbrains.svg' alt='jetbrains' height='40'>](https://www.jetbrains.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](https://www.adobe.com/de/creativecloud.html?gclid=CjwKCAjwg4SpBhAKEiwAdyLwvM4ZhKS6g4xO-f5R7hZpcKtiZ8oS2-Z97tSxpYR2npPGIEQlHqnK9hoCjIoQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=CjwKCAjwg4SpBhAKEiwAdyLwvM4ZhKS6g4xO-f5R7hZpcKtiZ8oS2-Z97tSxpYR2npPGIEQlHqnK9hoCjIoQAvD_BwE:G:s&s_kwcid=AL!3085!3!599955117118!e!!g!!adobe!1419109419!57403450924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://www.adobe.com/de/creativecloud.html?gclid=CjwKCAjwg4SpBhAKEiwAdyLwvM4ZhKS6g4xO-f5R7hZpcKtiZ8oS2-Z97tSxpYR2npPGIEQlHqnK9hoCjIoQAvD_BwE&mv=search&mv=search&mv2=paidsearch&sdid=D4P81NYZ&ef_id=CjwKCAjwg4SpBhAKEiwAdyLwvM4ZhKS6g4xO-f5R7hZpcKtiZ8oS2-Z97tSxpYR2npPGIEQlHqnK9hoCjIoQAvD_BwE:G:s&s_kwcid=AL!3085!3!599955117118!e!!g!!adobe!1419109419!57403450924)</p>  
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElementPlayZz)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">21 years old, currently learning the art of development.</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElementPlayZz&show_icons=true)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ElementPlayZz)  
+<p align="left">I already have quite some experience with Photoshop and Illustrator.</p>
 
-![](https://komarev.com/ghpvc/?username=your-ElementPlayZz)
+###
+
+<h4 align="left">📖 I’m currently learning:</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+</div>
+
+###
+
+<h4 align="left">📫Discord: pixel9144</h4>
+
+###
+
+<h4 align="center">What Programs i use:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+</div>
+
+###
