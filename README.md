@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I already have quite some experience with Photoshop and Illustrator.</p>
+<p align="left">I already have quite some experience with Figma, Photoshop and Illustrator.</p>
 
 ###
 
