@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I already have quite some experience with Figma, Photoshop and Illustrator.</p>
+<p align="left">I already have quite some experience with Figma.</p>
 
 ###
 
@@ -37,8 +37,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/idea" height="40" alt="IDEA logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
