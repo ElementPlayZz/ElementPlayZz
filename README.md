@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Currently learning 🙂 #Developement</h3>
+<h3 align="left">Currently learning 😁</h3>
 
 ###
 
-<p align="left">23 years old, currently learning the art of development.</p>
+<p align="left">23 years old, currently learning the art of development and ui/ux design</p>
 
 ###
 
@@ -19,15 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figam logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="CS logo"  />
+        <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo"  />
   <img width="12" />
 </div>
 
 ###
 
-<h4 align="left">📫Discord: pixel9144</h4>
+<h4 align="left">📫Discord: #pixel9144</h4>
 
 ###
 
@@ -46,7 +46,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
 </div>
 
 ###
